@@ -1,0 +1,11 @@
+# Derleme çıktıları
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio dosyaları
+.vs/
+*.user
+*.suo
+
+# Sertifika ve anahtarlar
+*.pfx
